@@ -16,3 +16,5 @@
  <a href = "mailto:kaualucaspereira50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   </div>
+
+![spiderman gif](https://user-images.githubusercontent.com/102733262/165831277-3fa549b6-01db-4bfa-9eac-0aaf99512d0a.gif)
