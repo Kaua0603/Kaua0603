@@ -1,6 +1,6 @@
 ### Olá, eu sou Kauã Pereira👋
 
-- ☁ Atualmente estou aprendendo Figma, Canva, GitBash e Java
+- ☁Atualmente estou aprendendo Figma, Canva, GitBash e Java
 - ⛅Estudante
 - ⚡Pronomes: Ele/Dele
 - ⏳16y
